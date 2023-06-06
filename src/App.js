@@ -13,7 +13,7 @@ function App() {
     'address': 'Việt Trì',
     'desc': 'Hello World'
   })
-
+  var a = 1;
   const [display, setDisplay] = useState(false)
 
   const openModal = () => {
