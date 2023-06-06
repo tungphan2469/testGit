@@ -1,0 +1,13 @@
+.main{
+    position: absolute;
+    padding: 20px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 300px;
+    height: 300px;
+    border: 1px solid #000;
+    border-radius: 20px;
+}
